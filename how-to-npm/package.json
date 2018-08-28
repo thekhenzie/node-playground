@@ -1,0 +1,25 @@
+{
+  "name": "pkg",
+  "version": "1.2.1",
+  "description": "Test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Harold Khen Baniqued",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekhenzie/node-playground.git"
+  },
+  "keywords": [
+    "pkg",
+    "thekhenzie"
+  ],
+  "bugs": {
+    "url": "https://github.com/thekhenzie/node-playground/issues"
+  },
+  "homepage": "https://github.com/thekhenzie/node-playground#readme"
+}
